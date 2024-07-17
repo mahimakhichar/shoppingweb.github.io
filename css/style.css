@@ -1,0 +1,12 @@
+ .jumbotron {
+    background-color:#FF6B83 ;
+    padding: 2rem 2rem;
+    display: flex;
+    flex-direction: row;
+  }
+  .jumbotron img{ 
+     width: 400px;
+   } 
+.bg-custom{
+   background-color: #FF6B83;
+}
